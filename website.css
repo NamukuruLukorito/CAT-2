@@ -1,0 +1,246 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+    header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    }
+    /* Change background color of navigation pane to purple */
+nav {
+    background-color: purple;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #333;
+}
+
+section img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form label {
+    display: block;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #555;
+}
+    
+    nav ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    
+    nav ul li {
+    display: inline;
+    margin-right: 20px;
+    }
+    
+    nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    }
+    
+    main {
+    padding: 20px;
+    }
+    
+    footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    }
+    
+    section {
+    margin-bottom: 20px;
+    }
+    
+    section h2 {
+    color: #333;
+    }
+    
+    section img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+    }
+    
+    form {
+    margin-top: 20px;
+    }
+    
+    form label {
+    display: block;
+    }
+    
+    form input[type="text"],
+    form input[type="email"],
+    form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    }
+    
+    form input[type="submit"] {
+    background-color: #333;
+    color: #8d3838;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    }
+    
+    form input[type="submit"]:hover {
+    background-color: #555;
+    }
+    /* styles.css */
+
+body {
+    /* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('background.jpg'); /* Replace 'background_image.jpg' with the path to your background image */
+    background-size: contain; /* Adjust background size to contain the image */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent background image from repeating */
+}
+
+/* Remaining CSS styles... */
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #333;
+}
+
+.product,
+.testimonial,
+.blog-post {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.product img,
+.blog-post img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.cta-button:hover {
+    background-color: #555;
+}
+<section class="social-media-icons">
+<!-- Adjust the width and height attributes as needed -->
+<a href="https://www.linkedin.com/your-profile"><img src="linkedin_logo.png" alt="LinkedIn" width="50" height="50"></a>
+<a href="https://wa.me/your-number"><img src="whatsapp_logo.png" alt="WhatsApp" width="50" height="50"></a>
+<a href="https://www.facebook.com/your-page"><img src="facebook_logo.png" alt="Facebook" width="50" height="50"></a>
